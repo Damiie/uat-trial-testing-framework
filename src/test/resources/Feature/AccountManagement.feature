@@ -16,4 +16,4 @@ Feature: Account Management
     Then My account dashboard is displayed
     Examples:
       | Firstname | Lastname | Email                  | Password    | Confirmpassword |
-      | Fred      | Juniper  | Fred.Juniper03@yahoo.com | FJuniper123 | FJuniper123     |
+      | Fred      | Juniper  | Fred.Juniper04@yahoo.com | FJuniper123 | FJuniper123     |
